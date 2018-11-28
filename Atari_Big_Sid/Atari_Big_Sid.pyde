@@ -146,8 +146,8 @@ def drawGameOver(score):
     
     
             
-def mousePressed():
-    sid.mouseControl = not sid.mouseControl
+#def mousePressed():
+#    sid.mouseControl = not sid.mouseControl
     
 def keyPressed():
     global gameStart
